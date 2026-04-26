@@ -21,7 +21,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests pandas matplotlib
 
       - name: Run weather script
         run: python scripts/fetch_weather.py
