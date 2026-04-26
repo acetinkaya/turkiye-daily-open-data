@@ -27,6 +27,9 @@ jobs:
         run: python scripts/fetch_weather.py
         env:
           OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+          
+      - name: Generate weather chart
+        run: python scripts/generate_weather_chart.py
 
       - name: Commit changes
         run: |
