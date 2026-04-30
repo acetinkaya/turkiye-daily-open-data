@@ -6,9 +6,9 @@
     },
     "weather": [
       {
-        "id": 804,
+        "id": 803,
         "main": "Clouds",
-        "description": "kapalı",
+        "description": "parçalı bulutlu",
         "icon": "04n"
       }
     ],
@@ -25,20 +25,20 @@
     },
     "visibility": 10000,
     "wind": {
-      "speed": 4.24,
-      "deg": 32,
-      "gust": 5.68
+      "speed": 4.01,
+      "deg": 39,
+      "gust": 5.52
     },
     "clouds": {
-      "all": 93
+      "all": 83
     },
-    "dt": 1777582432,
+    "dt": 1777585949,
     "sys": {
       "type": 1,
       "id": 7018,
       "country": "TR",
-      "sunrise": 1777518192,
-      "sunset": 1777568212
+      "sunrise": 1777604516,
+      "sunset": 1777654675
     },
     "timezone": 10800,
     "id": 738025,
@@ -61,11 +61,11 @@
     "base": "stations",
     "main": {
       "temp": 12.2,
-      "feels_like": 11.43,
+      "feels_like": 11.51,
       "temp_min": 11.2,
       "temp_max": 12.73,
       "pressure": 1017,
-      "humidity": 75,
+      "humidity": 78,
       "sea_level": 1017,
       "grnd_level": 1009
     },
@@ -77,13 +77,13 @@
     "clouds": {
       "all": 75
     },
-    "dt": 1777582206,
+    "dt": 1777585655,
     "sys": {
       "type": 2,
       "id": 2108371,
       "country": "TR",
-      "sunrise": 1777518218,
-      "sunset": 1777568327
+      "sunrise": 1777604540,
+      "sunset": 1777654791
     },
     "timezone": 10800,
     "id": 745042,
@@ -105,31 +105,31 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 15.13,
-      "feels_like": 13.98,
+      "temp": 13.47,
+      "feels_like": 12.26,
       "temp_min": 11.51,
-      "temp_max": 15.13,
-      "pressure": 1013,
-      "humidity": 49,
-      "sea_level": 1013,
+      "temp_max": 13.47,
+      "pressure": 1012,
+      "humidity": 53,
+      "sea_level": 1012,
       "grnd_level": 892
     },
     "visibility": 10000,
     "wind": {
-      "speed": 0.48,
-      "deg": 187,
-      "gust": 0.86
+      "speed": 0.85,
+      "deg": 174,
+      "gust": 0.79
     },
     "clouds": {
-      "all": 29
+      "all": 39
     },
-    "dt": 1777582385,
+    "dt": 1777585798,
     "sys": {
       "type": 2,
       "id": 2108472,
       "country": "TR",
-      "sunrise": 1777517420,
-      "sunset": 1777567268
+      "sunrise": 1777603745,
+      "sunset": 1777653729
     },
     "timezone": 10800,
     "id": 323786,
@@ -151,29 +151,29 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 8.45,
-      "feels_like": 7.42,
-      "temp_min": 8.45,
-      "temp_max": 8.45,
+      "temp": 7.35,
+      "feels_like": 6.64,
+      "temp_min": 7.35,
+      "temp_max": 7.35,
       "pressure": 1016,
-      "humidity": 86,
+      "humidity": 88,
       "sea_level": 1016,
       "grnd_level": 954
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.96,
-      "deg": 243,
-      "gust": 2.64
+      "speed": 1.49,
+      "deg": 257,
+      "gust": 1.91
     },
     "clouds": {
-      "all": 57
+      "all": 62
     },
-    "dt": 1777582433,
+    "dt": 1777585824,
     "sys": {
       "country": "TR",
-      "sunrise": 1777518295,
-      "sunset": 1777568202
+      "sunrise": 1777604620,
+      "sunset": 1777654664
     },
     "timezone": 10800,
     "id": 750268,
@@ -196,30 +196,30 @@
     "base": "stations",
     "main": {
       "temp": 7.72,
-      "feels_like": 6.44,
+      "feels_like": 6.42,
       "temp_min": 7.72,
       "temp_max": 7.83,
       "pressure": 1017,
-      "humidity": 92,
+      "humidity": 93,
       "sea_level": 1017,
       "grnd_level": 991
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.11,
-      "deg": 39,
-      "gust": 4.4
+      "speed": 2.13,
+      "deg": 32,
+      "gust": 4.76
     },
     "clouds": {
-      "all": 98
+      "all": 97
     },
-    "dt": 1777582433,
+    "dt": 1777585881,
     "sys": {
       "type": 2,
       "id": 2001202,
       "country": "TR",
-      "sunrise": 1777518008,
-      "sunset": 1777568089
+      "sunrise": 1777604331,
+      "sunset": 1777654553
     },
     "timezone": 10800,
     "id": 742865,
