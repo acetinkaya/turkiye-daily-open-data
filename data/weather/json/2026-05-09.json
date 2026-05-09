@@ -14,28 +14,28 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 22.48,
-      "feels_like": 22.56,
-      "temp_min": 22.19,
-      "temp_max": 22.52,
+      "temp": 24.52,
+      "feels_like": 24.99,
+      "temp_min": 24.52,
+      "temp_max": 24.52,
       "pressure": 1015,
-      "humidity": 68,
+      "humidity": 75,
       "sea_level": 1015,
-      "grnd_level": 1002
+      "grnd_level": 1001
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.95,
-      "deg": 308,
-      "gust": 3.88
+      "speed": 3.13,
+      "deg": 318,
+      "gust": 3.94
     },
     "clouds": {
-      "all": 95
+      "all": 96
     },
-    "dt": 1778317747,
+    "dt": 1778323940,
     "sys": {
-      "type": 2,
-      "id": 2108639,
+      "type": 1,
+      "id": 7018,
       "country": "TR",
       "sunrise": 1778295148,
       "sunset": 1778346375
@@ -60,24 +60,24 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 18.42,
-      "feels_like": 18.09,
-      "temp_min": 18.42,
-      "temp_max": 18.68,
-      "pressure": 1016,
-      "humidity": 68,
-      "sea_level": 1016,
+      "temp": 20.09,
+      "feels_like": 19.62,
+      "temp_min": 20.09,
+      "temp_max": 20.68,
+      "pressure": 1015,
+      "humidity": 56,
+      "sea_level": 1015,
       "grnd_level": 1007
     },
     "visibility": 10000,
     "wind": {
       "speed": 3.09,
-      "deg": 160
+      "deg": 200
     },
     "clouds": {
       "all": 75
     },
-    "dt": 1778317843,
+    "dt": 1778323843,
     "sys": {
       "type": 2,
       "id": 2000954,
@@ -97,33 +97,33 @@
     },
     "weather": [
       {
-        "id": 804,
+        "id": 803,
         "main": "Clouds",
-        "description": "kapalı",
+        "description": "parçalı bulutlu",
         "icon": "04d"
       }
     ],
     "base": "stations",
     "main": {
       "temp": 19.62,
-      "feels_like": 18.84,
-      "temp_min": 19.51,
-      "temp_max": 20.13,
+      "feels_like": 18.79,
+      "temp_min": 19.56,
+      "temp_max": 21.51,
       "pressure": 1016,
-      "humidity": 46,
+      "humidity": 44,
       "sea_level": 1016,
-      "grnd_level": 897
+      "grnd_level": 896
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.24,
-      "deg": 208,
-      "gust": 4.47
+      "speed": 0.89,
+      "deg": 207,
+      "gust": 1.34
     },
     "clouds": {
-      "all": 100
+      "all": 80
     },
-    "dt": 1778317703,
+    "dt": 1778323940,
     "sys": {
       "type": 2,
       "id": 267643,
@@ -151,25 +151,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 19.8,
-      "feels_like": 19.38,
-      "temp_min": 19.8,
-      "temp_max": 19.8,
-      "pressure": 1016,
-      "humidity": 59,
-      "sea_level": 1016,
+      "temp": 21.72,
+      "feels_like": 21.33,
+      "temp_min": 21.72,
+      "temp_max": 21.72,
+      "pressure": 1015,
+      "humidity": 53,
+      "sea_level": 1015,
       "grnd_level": 954
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.94,
-      "deg": 266,
-      "gust": 5.18
+      "speed": 2.67,
+      "deg": 313,
+      "gust": 5.06
     },
     "clouds": {
-      "all": 68
+      "all": 80
     },
-    "dt": 1778317974,
+    "dt": 1778323940,
     "sys": {
       "country": "TR",
       "sunrise": 1778295262,
@@ -195,25 +195,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 21.61,
-      "feels_like": 21.21,
-      "temp_min": 21.61,
-      "temp_max": 21.83,
-      "pressure": 1016,
+      "temp": 22.72,
+      "feels_like": 22.43,
+      "temp_min": 22.72,
+      "temp_max": 22.83,
+      "pressure": 1015,
       "humidity": 53,
-      "sea_level": 1016,
-      "grnd_level": 990
+      "sea_level": 1015,
+      "grnd_level": 989
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.29,
-      "deg": 274,
-      "gust": 3.12
+      "speed": 2.42,
+      "deg": 323,
+      "gust": 2.92
     },
     "clouds": {
-      "all": 67
+      "all": 78
     },
-    "dt": 1778317974,
+    "dt": 1778323923,
     "sys": {
       "type": 2,
       "id": 2001202,
