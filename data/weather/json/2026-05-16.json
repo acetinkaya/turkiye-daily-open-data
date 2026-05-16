@@ -14,28 +14,28 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 20.52,
-      "feels_like": 20.32,
-      "temp_min": 20.52,
-      "temp_max": 20.52,
-      "pressure": 1010,
-      "humidity": 65,
-      "sea_level": 1010,
-      "grnd_level": 996
+      "temp": 23.59,
+      "feels_like": 23.6,
+      "temp_min": 21.08,
+      "temp_max": 23.59,
+      "pressure": 1009,
+      "humidity": 61,
+      "sea_level": 1009,
+      "grnd_level": 995
     },
     "visibility": 10000,
     "wind": {
-      "speed": 3.19,
-      "deg": 116,
-      "gust": 3.34
+      "speed": 2.61,
+      "deg": 108,
+      "gust": 2.8
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1778910539,
+    "dt": 1778918090,
     "sys": {
-      "type": 1,
-      "id": 7018,
+      "type": 2,
+      "id": 2108639,
       "country": "TR",
       "sunrise": 1778899526,
       "sunset": 1778951596
@@ -60,24 +60,24 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 16.2,
-      "feels_like": 15.63,
-      "temp_min": 16.2,
-      "temp_max": 16.68,
-      "pressure": 1010,
-      "humidity": 67,
-      "sea_level": 1010,
-      "grnd_level": 1002
+      "temp": 18.42,
+      "feels_like": 17.75,
+      "temp_min": 18.42,
+      "temp_max": 18.68,
+      "pressure": 1009,
+      "humidity": 55,
+      "sea_level": 1009,
+      "grnd_level": 1001
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.54,
-      "deg": 130
+      "speed": 2.57,
+      "deg": 0
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1778910492,
+    "dt": 1778917812,
     "sys": {
       "type": 2,
       "id": 2000954,
@@ -105,25 +105,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 12.34,
-      "feels_like": 11.41,
-      "temp_min": 12.34,
-      "temp_max": 12.91,
-      "pressure": 1011,
-      "humidity": 68,
-      "sea_level": 1011,
+      "temp": 15.29,
+      "feels_like": 14.26,
+      "temp_min": 14.51,
+      "temp_max": 16.8,
+      "pressure": 1010,
+      "humidity": 53,
+      "sea_level": 1010,
       "grnd_level": 890
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.31,
-      "deg": 277,
-      "gust": 1.54
+      "speed": 2.24,
+      "deg": 308,
+      "gust": 3.58
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1778910326,
+    "dt": 1778917974,
     "sys": {
       "type": 2,
       "id": 267643,
@@ -151,25 +151,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 17.25,
-      "feels_like": 16.62,
-      "temp_min": 17.25,
-      "temp_max": 17.25,
-      "pressure": 1010,
-      "humidity": 61,
-      "sea_level": 1010,
-      "grnd_level": 949
+      "temp": 18.82,
+      "feels_like": 17.98,
+      "temp_min": 18.82,
+      "temp_max": 18.82,
+      "pressure": 1009,
+      "humidity": 47,
+      "sea_level": 1009,
+      "grnd_level": 948
     },
     "visibility": 10000,
     "wind": {
-      "speed": 0.11,
-      "deg": 128,
-      "gust": 1.11
+      "speed": 0.32,
+      "deg": 284,
+      "gust": 2.84
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1778910540,
+    "dt": 1778918091,
     "sys": {
       "country": "TR",
       "sunrise": 1778899648,
@@ -195,28 +195,28 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 11.83,
-      "feels_like": 10.69,
-      "temp_min": 11.83,
-      "temp_max": 11.83,
-      "pressure": 1010,
-      "humidity": 62,
-      "sea_level": 1010,
-      "grnd_level": 985
+      "temp": 18.83,
+      "feels_like": 18.05,
+      "temp_min": 18.83,
+      "temp_max": 18.83,
+      "pressure": 1009,
+      "humidity": 49,
+      "sea_level": 1009,
+      "grnd_level": 984
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.23,
-      "deg": 134,
-      "gust": 1.84
+      "speed": 0.69,
+      "deg": 158,
+      "gust": 2.01
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1778910540,
+    "dt": 1778918009,
     "sys": {
-      "type": 1,
-      "id": 6981,
+      "type": 2,
+      "id": 2001202,
       "country": "TR",
       "sunrise": 1778899331,
       "sunset": 1778951484
