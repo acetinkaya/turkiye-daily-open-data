@@ -14,25 +14,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 19.52,
-      "feels_like": 19.49,
-      "temp_min": 19.41,
-      "temp_max": 19.52,
-      "pressure": 1017,
-      "humidity": 75,
-      "sea_level": 1017,
-      "grnd_level": 1003
+      "temp": 20.52,
+      "feels_like": 20.51,
+      "temp_min": 20.52,
+      "temp_max": 20.52,
+      "pressure": 1016,
+      "humidity": 72,
+      "sea_level": 1016,
+      "grnd_level": 1002
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.85,
-      "deg": 330,
-      "gust": 3.57
+      "speed": 3.11,
+      "deg": 341,
+      "gust": 4.77
     },
     "clouds": {
       "all": 97
     },
-    "dt": 1779532795,
+    "dt": 1779537421,
     "sys": {
       "type": 1,
       "id": 7018,
@@ -60,24 +60,24 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 21.19,
-      "feels_like": 21.09,
-      "temp_min": 18.42,
-      "temp_max": 21.31,
+      "temp": 21.9,
+      "feels_like": 21.82,
+      "temp_min": 19.53,
+      "temp_max": 22.73,
       "pressure": 1017,
-      "humidity": 66,
+      "humidity": 64,
       "sea_level": 1017,
       "grnd_level": 1009
     },
     "visibility": 10000,
     "wind": {
-      "speed": 4.12,
-      "deg": 30
+      "speed": 3.6,
+      "deg": 10
     },
     "clouds": {
       "all": 75
     },
-    "dt": 1779532640,
+    "dt": 1779537421,
     "sys": {
       "type": 2,
       "id": 2110931,
@@ -105,25 +105,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 17.46,
-      "feels_like": 16.88,
-      "temp_min": 17.34,
-      "temp_max": 18.47,
+      "temp": 19.39,
+      "feels_like": 18.87,
+      "temp_min": 17.91,
+      "temp_max": 19.56,
       "pressure": 1013,
-      "humidity": 62,
+      "humidity": 57,
       "sea_level": 1013,
       "grnd_level": 893
     },
     "visibility": 10000,
     "wind": {
-      "speed": 0.45,
-      "deg": 203,
-      "gust": 0.89
+      "speed": 1.34,
+      "deg": 27,
+      "gust": 1.34
     },
     "clouds": {
       "all": 100
     },
-    "dt": 1779532795,
+    "dt": 1779537421,
     "sys": {
       "type": 2,
       "id": 267643,
@@ -151,25 +151,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 22.96,
-      "feels_like": 23.22,
-      "temp_min": 22.96,
-      "temp_max": 22.96,
+      "temp": 22.93,
+      "feels_like": 23.24,
+      "temp_min": 22.93,
+      "temp_max": 22.93,
       "pressure": 1016,
-      "humidity": 73,
+      "humidity": 75,
       "sea_level": 1016,
       "grnd_level": 955
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2,
-      "deg": 343,
-      "gust": 2.73
+      "speed": 2.91,
+      "deg": 2,
+      "gust": 3.51
     },
     "clouds": {
-      "all": 99
+      "all": 98
     },
-    "dt": 1779532795,
+    "dt": 1779537421,
     "sys": {
       "country": "TR",
       "sunrise": 1779504111,
@@ -196,24 +196,24 @@
     "base": "stations",
     "main": {
       "temp": 17.72,
-      "feels_like": 17.56,
+      "feels_like": 17.51,
       "temp_min": 17.72,
       "temp_max": 17.83,
       "pressure": 1017,
-      "humidity": 77,
+      "humidity": 75,
       "sea_level": 1017,
       "grnd_level": 991
     },
     "visibility": 10000,
     "wind": {
-      "speed": 3.89,
-      "deg": 8,
-      "gust": 4.39
+      "speed": 4.58,
+      "deg": 3,
+      "gust": 5.08
     },
     "clouds": {
-      "all": 95
+      "all": 93
     },
-    "dt": 1779532795,
+    "dt": 1779537302,
     "sys": {
       "type": 2,
       "id": 2001202,
