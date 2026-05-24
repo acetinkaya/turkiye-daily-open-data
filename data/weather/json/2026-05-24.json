@@ -14,25 +14,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 21.52,
-      "feels_like": 21.61,
-      "temp_min": 21.08,
-      "temp_max": 21.52,
+      "temp": 20.52,
+      "feels_like": 20.59,
+      "temp_min": 20.52,
+      "temp_max": 20.52,
       "pressure": 1019,
-      "humidity": 72,
+      "humidity": 75,
       "sea_level": 1019,
       "grnd_level": 1005
     },
     "visibility": 10000,
     "wind": {
-      "speed": 4.82,
-      "deg": 10,
-      "gust": 6.22
+      "speed": 4.54,
+      "deg": 13,
+      "gust": 5.79
     },
     "clouds": {
-      "all": 46
+      "all": 37
     },
-    "dt": 1779634469,
+    "dt": 1779638516,
     "sys": {
       "type": 1,
       "id": 7018,
@@ -52,35 +52,35 @@
     },
     "weather": [
       {
-        "id": 802,
+        "id": 801,
         "main": "Clouds",
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "description": "az bulutlu",
+        "icon": "02d"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 21.6,
-      "feels_like": 21.62,
-      "temp_min": 20.09,
-      "temp_max": 21.86,
+      "temp": 19.86,
+      "feels_like": 19.83,
+      "temp_min": 19.53,
+      "temp_max": 19.95,
       "pressure": 1019,
-      "humidity": 69,
+      "humidity": 74,
       "sea_level": 1019,
       "grnd_level": 1011
     },
     "visibility": 10000,
     "wind": {
-      "speed": 9.77,
-      "deg": 10
+      "speed": 8.75,
+      "deg": 20
     },
     "clouds": {
-      "all": 40
+      "all": 20
     },
-    "dt": 1779634451,
+    "dt": 1779638293,
     "sys": {
       "type": 2,
-      "id": 2110931,
+      "id": 2108371,
       "country": "TR",
       "sunrise": 1779590344,
       "sunset": 1779643381
@@ -105,25 +105,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 16.78,
-      "feels_like": 16.34,
-      "temp_min": 16.51,
+      "temp": 16.55,
+      "feels_like": 16.3,
+      "temp_min": 14.58,
       "temp_max": 16.78,
-      "pressure": 1014,
-      "humidity": 70,
-      "sea_level": 1014,
-      "grnd_level": 894
+      "pressure": 1015,
+      "humidity": 78,
+      "sea_level": 1015,
+      "grnd_level": 895
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.34,
-      "deg": 324,
-      "gust": 2.68
+      "speed": 4.89,
+      "deg": 354,
+      "gust": 7.42
     },
     "clouds": {
-      "all": 96
+      "all": 85
     },
-    "dt": 1779634429,
+    "dt": 1779638516,
     "sys": {
       "type": 2,
       "id": 267643,
@@ -151,25 +151,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 19.06,
-      "feels_like": 18.88,
-      "temp_min": 19.06,
-      "temp_max": 19.06,
+      "temp": 18.31,
+      "feels_like": 18.1,
+      "temp_min": 18.31,
+      "temp_max": 18.31,
       "pressure": 1019,
-      "humidity": 71,
+      "humidity": 73,
       "sea_level": 1019,
       "grnd_level": 957
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.81,
-      "deg": 34,
-      "gust": 3.78
+      "speed": 2.12,
+      "deg": 32,
+      "gust": 3.33
     },
     "clouds": {
-      "all": 60
+      "all": 52
     },
-    "dt": 1779634683,
+    "dt": 1779638516,
     "sys": {
       "country": "TR",
       "sunrise": 1779590470,
@@ -195,26 +195,28 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 18.34,
-      "feels_like": 18.19,
-      "temp_min": 18.34,
-      "temp_max": 18.34,
+      "temp": 17.72,
+      "feels_like": 17.66,
+      "temp_min": 17.72,
+      "temp_max": 17.72,
       "pressure": 1019,
-      "humidity": 75,
+      "humidity": 81,
       "sea_level": 1019,
-      "grnd_level": 993
+      "grnd_level": 994
     },
     "visibility": 10000,
     "wind": {
-      "speed": 3.62,
-      "deg": 6,
-      "gust": 4.71
+      "speed": 2.74,
+      "deg": 5,
+      "gust": 3.79
     },
     "clouds": {
-      "all": 53
+      "all": 51
     },
-    "dt": 1779634683,
+    "dt": 1779638516,
     "sys": {
+      "type": 2,
+      "id": 2001202,
       "country": "TR",
       "sunrise": 1779590141,
       "sunset": 1779643136
