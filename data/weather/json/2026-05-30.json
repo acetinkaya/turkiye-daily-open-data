@@ -14,25 +14,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 19.52,
-      "feels_like": 19.46,
-      "temp_min": 19.41,
-      "temp_max": 19.52,
-      "pressure": 1016,
-      "humidity": 74,
-      "sea_level": 1016,
-      "grnd_level": 1002
+      "temp": 17.52,
+      "feels_like": 17.29,
+      "temp_min": 17.19,
+      "temp_max": 17.52,
+      "pressure": 1015,
+      "humidity": 75,
+      "sea_level": 1015,
+      "grnd_level": 1001
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.81,
-      "deg": 236,
-      "gust": 3.94
+      "speed": 2.42,
+      "deg": 207,
+      "gust": 3.46
     },
     "clouds": {
-      "all": 3
+      "all": 4
     },
-    "dt": 1780178107,
+    "dt": 1780181584,
     "sys": {
       "type": 1,
       "id": 7018,
@@ -61,23 +61,23 @@
     "base": "stations",
     "main": {
       "temp": 18.75,
-      "feels_like": 18.51,
+      "feels_like": 18.59,
       "temp_min": 18.42,
       "temp_max": 18.84,
       "pressure": 1015,
-      "humidity": 70,
+      "humidity": 73,
       "sea_level": 1015,
       "grnd_level": 1007
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.06,
-      "deg": 310
+      "speed": 1.54,
+      "deg": 320
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1780178107,
+    "dt": 1780181584,
     "sys": {
       "type": 2,
       "id": 2108371,
@@ -97,36 +97,36 @@
     },
     "weather": [
       {
-        "id": 801,
+        "id": 802,
         "main": "Clouds",
-        "description": "az bulutlu",
-        "icon": "02n"
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 12.91,
-      "feels_like": 11.59,
-      "temp_min": 12.51,
-      "temp_max": 12.91,
+      "temp": 13.22,
+      "feels_like": 12.03,
+      "temp_min": 10.51,
+      "temp_max": 13.45,
       "pressure": 1015,
-      "humidity": 51,
+      "humidity": 55,
       "sea_level": 1015,
       "grnd_level": 895
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.17,
-      "deg": 313,
-      "gust": 4.76
+      "speed": 1.75,
+      "deg": 2,
+      "gust": 3.17
     },
     "clouds": {
-      "all": 21
+      "all": 33
     },
-    "dt": 1780178031,
+    "dt": 1780181584,
     "sys": {
       "type": 2,
-      "id": 2108472,
+      "id": 267643,
       "country": "TR",
       "sunrise": 1780194171,
       "sunset": 1780247398
@@ -151,25 +151,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 13.58,
-      "feels_like": 12.85,
-      "temp_min": 13.58,
-      "temp_max": 13.58,
+      "temp": 13.41,
+      "feels_like": 12.74,
+      "temp_min": 13.41,
+      "temp_max": 13.41,
       "pressure": 1016,
-      "humidity": 71,
+      "humidity": 74,
       "sea_level": 1016,
       "grnd_level": 955
     },
     "visibility": 10000,
     "wind": {
-      "speed": 0.95,
-      "deg": 177,
-      "gust": 1.45
+      "speed": 0.9,
+      "deg": 181,
+      "gust": 1.51
     },
     "clouds": {
       "all": 2
     },
-    "dt": 1780178107,
+    "dt": 1780181584,
     "sys": {
       "country": "TR",
       "sunrise": 1780195031,
@@ -187,33 +187,33 @@
     },
     "weather": [
       {
-        "id": 803,
+        "id": 802,
         "main": "Clouds",
-        "description": "parçalı bulutlu",
-        "icon": "04n"
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
       }
     ],
     "base": "stations",
     "main": {
       "temp": 12.72,
-      "feels_like": 12.19,
+      "feels_like": 12.21,
       "temp_min": 12.72,
       "temp_max": 12.83,
       "pressure": 1015,
-      "humidity": 82,
+      "humidity": 83,
       "sea_level": 1015,
       "grnd_level": 990
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.76,
-      "deg": 199,
-      "gust": 1.46
+      "speed": 2.55,
+      "deg": 198,
+      "gust": 2.12
     },
     "clouds": {
-      "all": 55
+      "all": 49
     },
-    "dt": 1780178078,
+    "dt": 1780181585,
     "sys": {
       "type": 2,
       "id": 2001202,
