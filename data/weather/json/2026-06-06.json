@@ -25,14 +25,14 @@
     },
     "visibility": 10000,
     "wind": {
-      "speed": 3.48,
-      "deg": 63,
-      "gust": 4.45
+      "speed": 2.06,
+      "deg": 80,
+      "gust": 3.37
     },
     "clouds": {
-      "all": 5
+      "all": 6
     },
-    "dt": 1780773037,
+    "dt": 1780779457,
     "sys": {
       "type": 2,
       "id": 269771,
@@ -52,36 +52,36 @@
     },
     "weather": [
       {
-        "id": 800,
-        "main": "Clear",
-        "description": "açık",
-        "icon": "01n"
+        "id": 801,
+        "main": "Clouds",
+        "description": "az bulutlu",
+        "icon": "02n"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 22.84,
-      "feels_like": 23.11,
-      "temp_min": 20.09,
-      "temp_max": 22.97,
+      "temp": 20.51,
+      "feels_like": 20.76,
+      "temp_min": 19.53,
+      "temp_max": 20.51,
       "pressure": 1016,
-      "humidity": 74,
+      "humidity": 82,
       "sea_level": 1016,
       "grnd_level": 1008
     },
     "visibility": 10000,
     "wind": {
-      "speed": 4.42,
-      "deg": 61,
-      "gust": 8.79
+      "speed": 3.36,
+      "deg": 58,
+      "gust": 6.96
     },
     "clouds": {
-      "all": 9
+      "all": 17
     },
-    "dt": 1780772834,
+    "dt": 1780779287,
     "sys": {
       "type": 2,
-      "id": 2110931,
+      "id": 2108371,
       "country": "TR",
       "sunrise": 1780713155,
       "sunset": 1780767187
@@ -98,33 +98,33 @@
     },
     "weather": [
       {
-        "id": 802,
+        "id": 801,
         "main": "Clouds",
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
+        "description": "az bulutlu",
+        "icon": "02n"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 21.23,
-      "feels_like": 20.92,
-      "temp_min": 17.91,
-      "temp_max": 21.23,
-      "pressure": 1014,
-      "humidity": 58,
-      "sea_level": 1014,
+      "temp": 20.11,
+      "feels_like": 19.93,
+      "temp_min": 16.25,
+      "temp_max": 20.11,
+      "pressure": 1015,
+      "humidity": 67,
+      "sea_level": 1015,
       "grnd_level": 896
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.37,
+      "speed": 1.99,
       "deg": 58,
-      "gust": 2.32
+      "gust": 1.81
     },
     "clouds": {
-      "all": 26
+      "all": 13
     },
-    "dt": 1780772777,
+    "dt": 1780779457,
     "sys": {
       "type": 2,
       "id": 267643,
@@ -152,25 +152,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 18.71,
-      "feels_like": 18.59,
-      "temp_min": 18.71,
-      "temp_max": 18.71,
+      "temp": 17.86,
+      "feels_like": 17.63,
+      "temp_min": 17.86,
+      "temp_max": 17.86,
       "pressure": 1016,
-      "humidity": 75,
+      "humidity": 74,
       "sea_level": 1016,
       "grnd_level": 955
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.05,
-      "deg": 117,
-      "gust": 0.89
+      "speed": 0.91,
+      "deg": 135,
+      "gust": 0.62
     },
     "clouds": {
-      "all": 1
+      "all": 4
     },
-    "dt": 1780773038,
+    "dt": 1780779457,
     "sys": {
       "country": "TR",
       "sunrise": 1780713298,
@@ -188,36 +188,34 @@
     },
     "weather": [
       {
-        "id": 800,
-        "main": "Clear",
-        "description": "açık",
-        "icon": "01n"
+        "id": 801,
+        "main": "Clouds",
+        "description": "az bulutlu",
+        "icon": "02n"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 18.83,
-      "feels_like": 19.12,
-      "temp_min": 18.83,
-      "temp_max": 18.83,
-      "pressure": 1017,
-      "humidity": 90,
-      "sea_level": 1017,
+      "temp": 16.26,
+      "feels_like": 16.19,
+      "temp_min": 16.26,
+      "temp_max": 16.26,
+      "pressure": 1016,
+      "humidity": 86,
+      "sea_level": 1016,
       "grnd_level": 991
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.36,
-      "deg": 82,
-      "gust": 1.44
+      "speed": 1.26,
+      "deg": 93,
+      "gust": 1.62
     },
     "clouds": {
-      "all": 9
+      "all": 12
     },
-    "dt": 1780773038,
+    "dt": 1780779457,
     "sys": {
-      "type": 2,
-      "id": 2001202,
       "country": "TR",
       "sunrise": 1780712954,
       "sunset": 1780766940
