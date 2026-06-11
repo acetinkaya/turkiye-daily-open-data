@@ -14,25 +14,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 21.37,
-      "feels_like": 21.52,
-      "temp_min": 19.41,
-      "temp_max": 21.37,
+      "temp": 20.82,
+      "feels_like": 20.79,
+      "temp_min": 18.3,
+      "temp_max": 20.82,
       "pressure": 1013,
-      "humidity": 75,
+      "humidity": 70,
       "sea_level": 1013,
       "grnd_level": 1000
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.7,
-      "deg": 68,
-      "gust": 3.82
+      "speed": 2.71,
+      "deg": 77,
+      "gust": 3.71
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1781214928,
+    "dt": 1781219836,
     "sys": {
       "type": 2,
       "id": 2108639,
@@ -60,25 +60,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 20.51,
-      "feels_like": 20.84,
-      "temp_min": 20.09,
-      "temp_max": 20.51,
-      "pressure": 1013,
-      "humidity": 85,
-      "sea_level": 1013,
+      "temp": 19.43,
+      "feels_like": 19.73,
+      "temp_min": 18.88,
+      "temp_max": 19.53,
+      "pressure": 1012,
+      "humidity": 88,
+      "sea_level": 1012,
       "grnd_level": 1006
     },
     "visibility": 10000,
     "wind": {
-      "speed": 3.02,
-      "deg": 51,
-      "gust": 6.59
+      "speed": 3.09,
+      "deg": 49,
+      "gust": 7.26
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1781214644,
+    "dt": 1781219836,
     "sys": {
       "type": 2,
       "id": 2108371,
@@ -98,33 +98,33 @@
     },
     "weather": [
       {
-        "id": 801,
-        "main": "Clouds",
-        "description": "az bulutlu",
-        "icon": "02n"
+        "id": 800,
+        "main": "Clear",
+        "description": "açık",
+        "icon": "01n"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 19.56,
-      "feels_like": 19.11,
-      "temp_min": 16.25,
-      "temp_max": 19.56,
-      "pressure": 1012,
-      "humidity": 59,
-      "sea_level": 1012,
-      "grnd_level": 894
+      "temp": 18.45,
+      "feels_like": 18.02,
+      "temp_min": 15.13,
+      "temp_max": 18.45,
+      "pressure": 1009,
+      "humidity": 64,
+      "sea_level": 1009,
+      "grnd_level": 893
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.5,
-      "deg": 57,
-      "gust": 1.37
+      "speed": 1.08,
+      "deg": 55,
+      "gust": 1.05
     },
     "clouds": {
-      "all": 12
+      "all": 9
     },
-    "dt": 1781214763,
+    "dt": 1781219836,
     "sys": {
       "type": 2,
       "id": 267643,
@@ -152,25 +152,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 17.2,
-      "feels_like": 16.91,
-      "temp_min": 17.2,
-      "temp_max": 17.2,
+      "temp": 16.94,
+      "feels_like": 16.7,
+      "temp_min": 16.94,
+      "temp_max": 16.94,
       "pressure": 1013,
-      "humidity": 74,
+      "humidity": 77,
       "sea_level": 1013,
       "grnd_level": 953
     },
     "visibility": 10000,
     "wind": {
-      "speed": 0.55,
-      "deg": 187,
-      "gust": 0.68
+      "speed": 0.49,
+      "deg": 171,
+      "gust": 0.78
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1781214928,
+    "dt": 1781219836,
     "sys": {
       "country": "TR",
       "sunrise": 1781231633,
@@ -196,28 +196,26 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 12.72,
-      "feels_like": 12.42,
-      "temp_min": 12.72,
-      "temp_max": 12.72,
-      "pressure": 1014,
-      "humidity": 91,
-      "sea_level": 1014,
+      "temp": 16.98,
+      "feels_like": 17.16,
+      "temp_min": 16.98,
+      "temp_max": 16.98,
+      "pressure": 1013,
+      "humidity": 93,
+      "sea_level": 1013,
       "grnd_level": 988
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.37,
-      "deg": 80,
-      "gust": 1.41
+      "speed": 1.26,
+      "deg": 78,
+      "gust": 1.31
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1781214928,
+    "dt": 1781219543,
     "sys": {
-      "type": 2,
-      "id": 2001202,
       "country": "TR",
       "sunrise": 1781231285,
       "sunset": 1781285542
