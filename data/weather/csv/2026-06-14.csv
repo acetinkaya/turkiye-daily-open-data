@@ -1,6 +1,6 @@
 date,city,country,temperature,feels_like,humidity,pressure,weather,wind_speed
-2026-06-14,Yalova,TR,25.52,25.51,53,1014,açık,1.87
-2026-06-14,İstanbul,TR,24.13,24.03,55,1014,açık,1.08
-2026-06-14,Ankara,TR,20.67,20.25,56,1011,kapalı,4.17
-2026-06-14,Bursa,TR,24.74,24.37,42,1013,az bulutlu,3.29
-2026-06-14,Kocaeli,TR,24.39,24.03,44,1014,açık,3.63
+2026-06-14,Yalova,TR,25.52,25.54,54,1014,açık,1.09
+2026-06-14,İstanbul,TR,24.14,24.05,55,1013,açık,0.61
+2026-06-14,Ankara,TR,21.78,21.32,50,1011,kapalı,2.24
+2026-06-14,Bursa,TR,23.65,23.3,47,1014,az bulutlu,2.46
+2026-06-14,Kocaeli,TR,24.39,24.27,53,1014,açık,2.68
