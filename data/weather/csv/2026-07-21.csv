@@ -1,0 +1,6 @@
+date,city,country,temperature,feels_like,humidity,pressure,weather,wind_speed
+2026-07-21,Yalova,TR,23.59,23.65,63,1014,açık,2.12
+2026-07-21,İstanbul,TR,22.6,23.53,100,1015,açık,2.39
+2026-07-21,Ankara,TR,21.23,20.51,42,1014,açık,0.45
+2026-07-21,Bursa,TR,18.26,17.66,58,1015,açık,0.53
+2026-07-21,Kocaeli,TR,19.61,20.03,92,1015,açık,1.27
