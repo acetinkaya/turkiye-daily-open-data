@@ -32,7 +32,7 @@
     "clouds": {
       "all": 0
     },
-    "dt": 1786736589,
+    "dt": 1786739047,
     "sys": {
       "type": 2,
       "id": 2108639,
@@ -71,13 +71,13 @@
     },
     "visibility": 10000,
     "wind": {
-      "speed": 9.77,
+      "speed": 8.23,
       "deg": 20
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1786736438,
+    "dt": 1786738800,
     "sys": {
       "type": 2,
       "id": 2108371,
@@ -105,25 +105,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 20.67,
-      "feels_like": 20.25,
+      "temp": 19.56,
+      "feels_like": 19.06,
       "temp_min": 19.51,
-      "temp_max": 20.67,
-      "pressure": 1014,
-      "humidity": 56,
-      "sea_level": 1014,
+      "temp_max": 19.56,
+      "pressure": 1016,
+      "humidity": 57,
+      "sea_level": 1016,
       "grnd_level": 894
     },
     "visibility": 10000,
     "wind": {
-      "speed": 3.58,
-      "deg": 119,
-      "gust": 5.36
+      "speed": 4.47,
+      "deg": 92,
+      "gust": 6.26
     },
     "clouds": {
       "all": 17
     },
-    "dt": 1786736589,
+    "dt": 1786738911,
     "sys": {
       "type": 2,
       "id": 267643,
@@ -151,12 +151,12 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 20.09,
-      "feels_like": 20.03,
-      "temp_min": 20.09,
-      "temp_max": 20.09,
+      "temp": 19.93,
+      "feels_like": 19.88,
+      "temp_min": 19.93,
+      "temp_max": 19.93,
       "pressure": 1016,
-      "humidity": 72,
+      "humidity": 73,
       "sea_level": 1016,
       "grnd_level": 954
     },
@@ -169,7 +169,7 @@
     "clouds": {
       "all": 0
     },
-    "dt": 1786736456,
+    "dt": 1786739047,
     "sys": {
       "country": "TR",
       "sunrise": 1786677228,
@@ -196,11 +196,11 @@
     "base": "stations",
     "main": {
       "temp": 20.5,
-      "feels_like": 20.56,
+      "feels_like": 20.64,
       "temp_min": 20.5,
       "temp_max": 20.83,
       "pressure": 1016,
-      "humidity": 75,
+      "humidity": 78,
       "sea_level": 1016,
       "grnd_level": 991
     },
@@ -213,7 +213,7 @@
     "clouds": {
       "all": 16
     },
-    "dt": 1786736590,
+    "dt": 1786739047,
     "sys": {
       "type": 2,
       "id": 2001202,
