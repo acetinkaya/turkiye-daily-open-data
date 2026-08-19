@@ -6,33 +6,33 @@
     },
     "weather": [
       {
-        "id": 802,
-        "main": "Clouds",
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "id": 800,
+        "main": "Clear",
+        "description": "açık",
+        "icon": "01d"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 31.52,
-      "feels_like": 33.72,
-      "temp_min": 31.08,
-      "temp_max": 31.52,
+      "temp": 30.52,
+      "feels_like": 31.67,
+      "temp_min": 30.52,
+      "temp_max": 30.52,
       "pressure": 1013,
-      "humidity": 51,
+      "humidity": 49,
       "sea_level": 1013,
       "grnd_level": 999
     },
     "visibility": 10000,
     "wind": {
-      "speed": 5.53,
-      "deg": 337,
-      "gust": 6
+      "speed": 5.74,
+      "deg": 359,
+      "gust": 6.43
     },
     "clouds": {
-      "all": 26
+      "all": 9
     },
-    "dt": 1787138334,
+    "dt": 1787142733,
     "sys": {
       "type": 1,
       "id": 7018,
@@ -60,27 +60,27 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 29.75,
-      "feels_like": 30.13,
+      "temp": 30.01,
+      "feels_like": 35.31,
       "temp_min": 29.53,
-      "temp_max": 30.55,
+      "temp_max": 30.51,
       "pressure": 1013,
-      "humidity": 46,
+      "humidity": 71,
       "sea_level": 1013,
-      "grnd_level": 1006
+      "grnd_level": 1005
     },
     "visibility": 10000,
     "wind": {
-      "speed": 6.17,
-      "deg": 20
+      "speed": 5.66,
+      "deg": 30
     },
     "clouds": {
-      "all": 59
+      "all": 63
     },
-    "dt": 1787138068,
+    "dt": 1787142508,
     "sys": {
       "type": 2,
-      "id": 2000954,
+      "id": 2108371,
       "country": "TR",
       "sunrise": 1787109455,
       "sunset": 1787158695
@@ -105,25 +105,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 30.62,
-      "feels_like": 29.12,
-      "temp_min": 30.13,
-      "temp_max": 31.51,
+      "temp": 30.68,
+      "feels_like": 28.99,
+      "temp_min": 30.67,
+      "temp_max": 32.51,
       "pressure": 1009,
-      "humidity": 27,
+      "humidity": 24,
       "sea_level": 1009,
-      "grnd_level": 894
+      "grnd_level": 893
     },
     "visibility": 10000,
     "wind": {
       "speed": 2.24,
-      "deg": 284,
-      "gust": 4.02
+      "deg": 241,
+      "gust": 4.47
     },
     "clouds": {
-      "all": 4
+      "all": 5
     },
-    "dt": 1787138214,
+    "dt": 1787142485,
     "sys": {
       "type": 2,
       "id": 267643,
@@ -151,25 +151,25 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 29.66,
-      "feels_like": 28.32,
-      "temp_min": 29.66,
-      "temp_max": 29.66,
+      "temp": 29.88,
+      "feels_like": 28.64,
+      "temp_min": 29.88,
+      "temp_max": 29.88,
       "pressure": 1012,
-      "humidity": 28,
+      "humidity": 30,
       "sea_level": 1012,
       "grnd_level": 952
     },
     "visibility": 10000,
     "wind": {
-      "speed": 4.49,
-      "deg": 328,
-      "gust": 2.7
+      "speed": 4.5,
+      "deg": 341,
+      "gust": 3.02
     },
     "clouds": {
       "all": 4
     },
-    "dt": 1787138253,
+    "dt": 1787142733,
     "sys": {
       "country": "TR",
       "sunrise": 1787109519,
@@ -187,33 +187,33 @@
     },
     "weather": [
       {
-        "id": 801,
+        "id": 804,
         "main": "Clouds",
-        "description": "az bulutlu",
-        "icon": "02d"
+        "description": "kapalı",
+        "icon": "04d"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 31.61,
-      "feels_like": 31.9,
-      "temp_min": 31.61,
-      "temp_max": 31.83,
-      "pressure": 1012,
-      "humidity": 41,
-      "sea_level": 1012,
+      "temp": 29.39,
+      "feels_like": 29.44,
+      "temp_min": 29.39,
+      "temp_max": 29.83,
+      "pressure": 1013,
+      "humidity": 44,
+      "sea_level": 1013,
       "grnd_level": 988
     },
     "visibility": 10000,
     "wind": {
-      "speed": 5.69,
-      "deg": 336,
-      "gust": 4.88
+      "speed": 5.81,
+      "deg": 1,
+      "gust": 6.14
     },
     "clouds": {
-      "all": 12
+      "all": 100
     },
-    "dt": 1787138334,
+    "dt": 1787142733,
     "sys": {
       "type": 2,
       "id": 2001202,
