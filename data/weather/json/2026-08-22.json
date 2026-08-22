@@ -32,7 +32,7 @@
     "clouds": {
       "all": 0
     },
-    "dt": 1787369762,
+    "dt": 1787372702,
     "sys": {
       "type": 2,
       "id": 2108669,
@@ -60,24 +60,24 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 23.7,
-      "feels_like": 24.63,
+      "temp": 24.05,
+      "feels_like": 24.97,
       "temp_min": 23.33,
-      "temp_max": 23.84,
+      "temp_max": 24.39,
       "pressure": 1010,
-      "humidity": 96,
+      "humidity": 94,
       "sea_level": 1010,
       "grnd_level": 1003
     },
     "visibility": 10000,
     "wind": {
       "speed": 3.09,
-      "deg": 40
+      "deg": 30
     },
     "clouds": {
       "all": 15
     },
-    "dt": 1787369762,
+    "dt": 1787372443,
     "sys": {
       "type": 2,
       "id": 2108371,
@@ -105,13 +105,13 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 20.67,
-      "feels_like": 19.89,
-      "temp_min": 14.51,
-      "temp_max": 20.67,
-      "pressure": 1012,
-      "humidity": 42,
-      "sea_level": 1012,
+      "temp": 21.23,
+      "feels_like": 20.53,
+      "temp_min": 15.51,
+      "temp_max": 21.23,
+      "pressure": 1014,
+      "humidity": 43,
+      "sea_level": 1014,
       "grnd_level": 893
     },
     "visibility": 10000,
@@ -123,7 +123,7 @@
     "clouds": {
       "all": 0
     },
-    "dt": 1787369645,
+    "dt": 1787372702,
     "sys": {
       "type": 2,
       "id": 267643,
@@ -152,11 +152,11 @@
     "base": "stations",
     "main": {
       "temp": 19.59,
-      "feels_like": 19.69,
+      "feels_like": 19.82,
       "temp_min": 19.59,
       "temp_max": 19.59,
       "pressure": 1011,
-      "humidity": 80,
+      "humidity": 85,
       "sea_level": 1011,
       "grnd_level": 951
     },
@@ -169,7 +169,7 @@
     "clouds": {
       "all": 0
     },
-    "dt": 1787369762,
+    "dt": 1787372702,
     "sys": {
       "country": "TR",
       "sunrise": 1787368893,
@@ -213,7 +213,7 @@
     "clouds": {
       "all": 69
     },
-    "dt": 1787369762,
+    "dt": 1787372702,
     "sys": {
       "type": 2,
       "id": 2001202,
