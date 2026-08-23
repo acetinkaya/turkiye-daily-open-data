@@ -32,7 +32,7 @@
     "clouds": {
       "all": 0
     },
-    "dt": 1787456629,
+    "dt": 1787459388,
     "sys": {
       "type": 2,
       "id": 2108669,
@@ -60,24 +60,24 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 21.77,
-      "feels_like": 22.56,
-      "temp_min": 19.44,
+      "temp": 21.97,
+      "feels_like": 22.83,
+      "temp_min": 21.2,
       "temp_max": 22.17,
       "pressure": 1013,
-      "humidity": 98,
+      "humidity": 100,
       "sea_level": 1013,
       "grnd_level": 1005
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.54,
+      "speed": 2.06,
       "deg": 60
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1787456389,
+    "dt": 1787459191,
     "sys": {
       "type": 2,
       "id": 2108371,
@@ -105,13 +105,13 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 23.45,
-      "feels_like": 23.03,
+      "temp": 20.13,
+      "feels_like": 19.79,
       "temp_min": 17.51,
-      "temp_max": 23.45,
-      "pressure": 1012,
-      "humidity": 45,
-      "sea_level": 1012,
+      "temp_max": 20.13,
+      "pressure": 1014,
+      "humidity": 61,
+      "sea_level": 1014,
       "grnd_level": 893
     },
     "visibility": 10000,
@@ -123,10 +123,10 @@
     "clouds": {
       "all": 0
     },
-    "dt": 1787456629,
+    "dt": 1787459210,
     "sys": {
       "type": 2,
-      "id": 267643,
+      "id": 2108472,
       "country": "TR",
       "sunrise": 1787454468,
       "sunset": 1787502912
@@ -151,13 +151,13 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 18.6,
-      "feels_like": 18.68,
-      "temp_min": 18.6,
-      "temp_max": 18.6,
-      "pressure": 1014,
-      "humidity": 83,
-      "sea_level": 1014,
+      "temp": 18.41,
+      "feels_like": 18.58,
+      "temp_min": 18.41,
+      "temp_max": 18.41,
+      "pressure": 1013,
+      "humidity": 87,
+      "sea_level": 1013,
       "grnd_level": 953
     },
     "visibility": 10000,
@@ -169,7 +169,7 @@
     "clouds": {
       "all": 0
     },
-    "dt": 1787456630,
+    "dt": 1787459389,
     "sys": {
       "country": "TR",
       "sunrise": 1787455351,
@@ -213,7 +213,7 @@
     "clouds": {
       "all": 17
     },
-    "dt": 1787456496,
+    "dt": 1787459161,
     "sys": {
       "type": 2,
       "id": 2001202,
