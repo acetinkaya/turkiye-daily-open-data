@@ -9,30 +9,30 @@
         "id": 800,
         "main": "Clear",
         "description": "açık",
-        "icon": "01n"
+        "icon": "01d"
       }
     ],
     "base": "stations",
     "main": {
       "temp": 23.45,
-      "feels_like": 23.7,
+      "feels_like": 23.73,
       "temp_min": 21.08,
       "temp_max": 23.65,
-      "pressure": 1016,
-      "humidity": 71,
-      "sea_level": 1016,
+      "pressure": 1017,
+      "humidity": 72,
+      "sea_level": 1017,
       "grnd_level": 1003
     },
     "visibility": 10000,
     "wind": {
-      "speed": 3.24,
-      "deg": 67,
-      "gust": 4.98
+      "speed": 3.36,
+      "deg": 88,
+      "gust": 5.12
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1787537955,
+    "dt": 1787543263,
     "sys": {
       "type": 2,
       "id": 2108669,
@@ -55,7 +55,7 @@
         "id": 800,
         "main": "Clear",
         "description": "açık",
-        "icon": "01n"
+        "icon": "01d"
       }
     ],
     "base": "stations",
@@ -64,20 +64,20 @@
       "feels_like": 23.83,
       "temp_min": 22.31,
       "temp_max": 23.33,
-      "pressure": 1016,
+      "pressure": 1017,
       "humidity": 97,
-      "sea_level": 1016,
-      "grnd_level": 1008
+      "sea_level": 1017,
+      "grnd_level": 1009
     },
     "visibility": 10000,
     "wind": {
-      "speed": 5.14,
-      "deg": 50
+      "speed": 5.66,
+      "deg": 40
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1787537955,
+    "dt": 1787543196,
     "sys": {
       "type": 2,
       "id": 2108371,
@@ -100,30 +100,30 @@
         "id": 800,
         "main": "Clear",
         "description": "açık",
-        "icon": "01n"
+        "icon": "01d"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 17.36,
-      "feels_like": 16.67,
-      "temp_min": 17.36,
-      "temp_max": 17.51,
+      "temp": 16.8,
+      "feels_like": 16.1,
+      "temp_min": 16.51,
+      "temp_max": 16.8,
       "pressure": 1018,
-      "humidity": 58,
+      "humidity": 60,
       "sea_level": 1018,
       "grnd_level": 897
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.53,
-      "deg": 19,
-      "gust": 2.3
+      "speed": 2.23,
+      "deg": 25,
+      "gust": 2.26
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1787537749,
+    "dt": 1787543216,
     "sys": {
       "type": 2,
       "id": 2108472,
@@ -146,30 +146,30 @@
         "id": 800,
         "main": "Clear",
         "description": "açık",
-        "icon": "01n"
+        "icon": "01d"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 18.46,
-      "feels_like": 18.22,
-      "temp_min": 18.46,
-      "temp_max": 18.46,
+      "temp": 18.79,
+      "feels_like": 18.27,
+      "temp_min": 18.79,
+      "temp_max": 18.79,
       "pressure": 1017,
-      "humidity": 71,
+      "humidity": 59,
       "sea_level": 1017,
-      "grnd_level": 955
+      "grnd_level": 956
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.81,
-      "deg": 80,
-      "gust": 1.73
+      "speed": 2.27,
+      "deg": 85,
+      "gust": 2.7
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1787537956,
+    "dt": 1787543264,
     "sys": {
       "country": "TR",
       "sunrise": 1787541809,
@@ -190,30 +190,30 @@
         "id": 800,
         "main": "Clear",
         "description": "açık",
-        "icon": "01n"
+        "icon": "01d"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 13.83,
-      "feels_like": 13.78,
-      "temp_min": 13.83,
-      "temp_max": 13.83,
+      "temp": 12.83,
+      "feels_like": 12.57,
+      "temp_min": 12.83,
+      "temp_max": 12.83,
       "pressure": 1017,
-      "humidity": 96,
+      "humidity": 92,
       "sea_level": 1017,
       "grnd_level": 992
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.33,
-      "deg": 79,
-      "gust": 1.56
+      "speed": 1.32,
+      "deg": 100,
+      "gust": 1.79
     },
     "clouds": {
       "all": 0
     },
-    "dt": 1787537956,
+    "dt": 1787543199,
     "sys": {
       "type": 1,
       "id": 6981,
