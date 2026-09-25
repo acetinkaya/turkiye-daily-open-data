@@ -14,31 +14,31 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 18.59,
-      "feels_like": 18.46,
-      "temp_min": 16.08,
-      "temp_max": 18.59,
+      "temp": 17.48,
+      "feels_like": 17.27,
+      "temp_min": 15.52,
+      "temp_max": 17.48,
       "pressure": 1018,
-      "humidity": 75,
+      "humidity": 76,
       "sea_level": 1018,
       "grnd_level": 1022
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.91,
-      "deg": 80,
-      "gust": 4.32
+      "speed": 2.45,
+      "deg": 90,
+      "gust": 3.9
     },
     "clouds": {
-      "all": 7
+      "all": 0
     },
-    "dt": 1790369876,
+    "dt": 1790380326,
     "sys": {
       "type": 2,
       "id": 2108639,
       "country": "TR",
-      "sunrise": 1790308380,
-      "sunset": 1790351780
+      "sunrise": 1790394838,
+      "sunset": 1790438078
     },
     "timezone": 10800,
     "id": 738025,
@@ -52,38 +52,38 @@
     },
     "weather": [
       {
-        "id": 800,
-        "main": "Clear",
-        "description": "açık",
-        "icon": "01n"
+        "id": 802,
+        "main": "Clouds",
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 17.64,
-      "feels_like": 18.07,
-      "temp_min": 17.31,
-      "temp_max": 17.73,
+      "temp": 16.97,
+      "feels_like": 17.33,
+      "temp_min": 16.2,
+      "temp_max": 17.17,
       "pressure": 1018,
       "humidity": 100,
       "sea_level": 1018,
-      "grnd_level": 1008
+      "grnd_level": 1007
     },
     "visibility": 10000,
     "wind": {
-      "speed": 3.6,
+      "speed": 1.54,
       "deg": 20
     },
     "clouds": {
-      "all": 10
+      "all": 44
     },
-    "dt": 1790369583,
+    "dt": 1790380200,
     "sys": {
       "type": 2,
       "id": 2108371,
       "country": "TR",
-      "sunrise": 1790308451,
-      "sunset": 1790351850
+      "sunrise": 1790394911,
+      "sunset": 1790438147
     },
     "timezone": 10800,
     "id": 745042,
@@ -105,31 +105,31 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 13.45,
-      "feels_like": 12.55,
-      "temp_min": 12.51,
-      "temp_max": 13.45,
-      "pressure": 1018,
-      "humidity": 65,
-      "sea_level": 1018,
-      "grnd_level": 905
+      "temp": 12.34,
+      "feels_like": 11.67,
+      "temp_min": 10.51,
+      "temp_max": 12.34,
+      "pressure": 1019,
+      "humidity": 78,
+      "sea_level": 1019,
+      "grnd_level": 904
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.92,
-      "deg": 45,
-      "gust": 4.08
+      "speed": 1.85,
+      "deg": 46,
+      "gust": 3.94
     },
     "clouds": {
-      "all": 4
+      "all": 0
     },
-    "dt": 1790369876,
+    "dt": 1790380240,
     "sys": {
       "type": 2,
       "id": 267643,
       "country": "TR",
-      "sunrise": 1790307519,
-      "sunset": 1790350924
+      "sunrise": 1790393976,
+      "sunset": 1790437224
     },
     "timezone": 10800,
     "id": 323786,
@@ -143,37 +143,37 @@
     },
     "weather": [
       {
-        "id": 800,
-        "main": "Clear",
-        "description": "açık",
-        "icon": "01n"
+        "id": 804,
+        "main": "Clouds",
+        "description": "kapalı",
+        "icon": "04n"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 12.58,
-      "feels_like": 12.03,
-      "temp_min": 12.58,
-      "temp_max": 12.58,
+      "temp": 10.71,
+      "feels_like": 10.06,
+      "temp_min": 10.71,
+      "temp_max": 10.71,
       "pressure": 1018,
-      "humidity": 82,
+      "humidity": 85,
       "sea_level": 1018,
-      "grnd_level": 1001
+      "grnd_level": 1000
     },
     "visibility": 10000,
     "wind": {
-      "speed": 0.69,
-      "deg": 143,
-      "gust": 2.19
+      "speed": 0.64,
+      "deg": 171,
+      "gust": 1.81
     },
     "clouds": {
-      "all": 7
+      "all": 93
     },
-    "dt": 1790369876,
+    "dt": 1790380297,
     "sys": {
       "country": "TR",
-      "sunrise": 1790308425,
-      "sunset": 1790351827
+      "sunrise": 1790394883,
+      "sunset": 1790438127
     },
     "timezone": 10800,
     "id": 750268,
@@ -187,37 +187,39 @@
     },
     "weather": [
       {
-        "id": 803,
-        "main": "Clouds",
-        "description": "parçalı bulutlu",
-        "icon": "04n"
+        "id": 800,
+        "main": "Clear",
+        "description": "açık",
+        "icon": "01n"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 11.32,
-      "feels_like": 10.81,
-      "temp_min": 11.32,
-      "temp_max": 11.32,
-      "pressure": 1019,
+      "temp": 6.83,
+      "feels_like": 6.83,
+      "temp_min": 6.83,
+      "temp_max": 6.83,
+      "pressure": 1018,
       "humidity": 88,
-      "sea_level": 1019,
-      "grnd_level": 991
+      "sea_level": 1018,
+      "grnd_level": 990
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.29,
-      "deg": 119,
-      "gust": 2.87
+      "speed": 0.81,
+      "deg": 102,
+      "gust": 2.07
     },
     "clouds": {
-      "all": 72
+      "all": 6
     },
-    "dt": 1790369877,
+    "dt": 1790380326,
     "sys": {
+      "type": 1,
+      "id": 6981,
       "country": "TR",
-      "sunrise": 1790308226,
-      "sunset": 1790351626
+      "sunrise": 1790394686,
+      "sunset": 1790437924
     },
     "timezone": 10800,
     "id": 742865,
