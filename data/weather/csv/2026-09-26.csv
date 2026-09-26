@@ -1,0 +1,6 @@
+date,city,country,temperature,feels_like,humidity,pressure,weather,wind_speed
+2026-09-26,Yalova,TR,16.93,16.64,75,1017,parçalı bulutlu,2.74
+2026-09-26,İstanbul,TR,16.97,17.33,100,1017,parçalı bulutlu,3.6
+2026-09-26,Ankara,TR,10.67,10.04,86,1018,parçalı az bulutlu,1.74
+2026-09-26,Bursa,TR,10.57,9.9,85,1017,parçalı bulutlu,0.72
+2026-09-26,Kocaeli,TR,10.51,9.99,91,1018,parçalı bulutlu,1.27
