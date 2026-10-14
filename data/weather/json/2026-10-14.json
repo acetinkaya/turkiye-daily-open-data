@@ -1,0 +1,229 @@
+[
+  {
+    "coord": {
+      "lon": 29.2769,
+      "lat": 40.655
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "kapalı",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 19.15,
+      "feels_like": 19.39,
+      "temp_min": 17.19,
+      "temp_max": 19.15,
+      "pressure": 1012,
+      "humidity": 87,
+      "sea_level": 1012,
+      "grnd_level": 1016
+    },
+    "visibility": 7961,
+    "wind": {
+      "speed": 5.43,
+      "deg": 78,
+      "gust": 7.04
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1791941454,
+    "sys": {
+      "type": 2,
+      "id": 2108639,
+      "country": "TR",
+      "sunrise": 1791951141,
+      "sunset": 1791991513
+    },
+    "timezone": 10800,
+    "id": 738025,
+    "name": "Yalova",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 28.9833,
+      "lat": 41.0351
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "kapalı",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 17.25,
+      "feels_like": 17.59,
+      "temp_min": 16.66,
+      "temp_max": 17.68,
+      "pressure": 1012,
+      "humidity": 98,
+      "sea_level": 1012,
+      "grnd_level": 1001
+    },
+    "visibility": 4693,
+    "wind": {
+      "speed": 6.17,
+      "deg": 30
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1791941454,
+    "sys": {
+      "type": 2,
+      "id": 2108371,
+      "country": "TR",
+      "sunrise": 1791951233,
+      "sunset": 1791991562
+    },
+    "timezone": 10800,
+    "id": 745042,
+    "name": "İstanbul",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 32.8543,
+      "lat": 39.9199
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "kapalı",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.67,
+      "feels_like": 15.2,
+      "temp_min": 15.51,
+      "temp_max": 15.67,
+      "pressure": 1016,
+      "humidity": 73,
+      "sea_level": 1016,
+      "grnd_level": 901
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.54,
+      "deg": 74,
+      "gust": 3.51
+    },
+    "clouds": {
+      "all": 99
+    },
+    "dt": 1791941454,
+    "sys": {
+      "type": 2,
+      "id": 267643,
+      "country": "TR",
+      "sunrise": 1791950242,
+      "sunset": 1791990696
+    },
+    "timezone": 10800,
+    "id": 323786,
+    "name": "Ankara",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 29.0833,
+      "lat": 40.1667
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "kapalı",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.38,
+      "feels_like": 15.48,
+      "temp_min": 15.38,
+      "temp_max": 15.38,
+      "pressure": 1012,
+      "humidity": 96,
+      "sea_level": 1012,
+      "grnd_level": 994
+    },
+    "visibility": 5031,
+    "wind": {
+      "speed": 1.01,
+      "deg": 89,
+      "gust": 2.74
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1791941250,
+    "sys": {
+      "country": "TR",
+      "sunrise": 1791951161,
+      "sunset": 1791991587
+    },
+    "timezone": 10800,
+    "id": 750268,
+    "name": "Bursa",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 29.9167,
+      "lat": 40.9167
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "kapalı",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.5,
+      "feels_like": 15.69,
+      "temp_min": 15.5,
+      "temp_max": 15.83,
+      "pressure": 1013,
+      "humidity": 99,
+      "sea_level": 1013,
+      "grnd_level": 985
+    },
+    "visibility": 1918,
+    "wind": {
+      "speed": 2.52,
+      "deg": 91,
+      "gust": 4.98
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1791941456,
+    "sys": {
+      "type": 2,
+      "id": 2001202,
+      "country": "TR",
+      "sunrise": 1791951002,
+      "sunset": 1791991345
+    },
+    "timezone": 10800,
+    "id": 742865,
+    "name": "Kocaeli",
+    "cod": 200
+  }
+]
