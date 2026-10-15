@@ -15,30 +15,30 @@
     "base": "stations",
     "main": {
       "temp": 15.82,
-      "feels_like": 15.02,
+      "feels_like": 15.29,
       "temp_min": 13.3,
       "temp_max": 15.82,
       "pressure": 1020,
-      "humidity": 60,
+      "humidity": 70,
       "sea_level": 1020,
       "grnd_level": 1024
     },
     "visibility": 10000,
     "wind": {
-      "speed": 0.17,
-      "deg": 140,
-      "gust": 1.67
+      "speed": 2.97,
+      "deg": 6,
+      "gust": 4.7
     },
     "clouds": {
-      "all": 97
+      "all": 90
     },
-    "dt": 1792093001,
+    "dt": 1792104564,
     "sys": {
       "type": 2,
       "id": 2108639,
       "country": "TR",
-      "sunrise": 1792037606,
-      "sunset": 1792077821
+      "sunrise": 1792124071,
+      "sunset": 1792164130
     },
     "timezone": 10800,
     "id": 738025,
@@ -60,30 +60,30 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 13.21,
-      "feels_like": 12.99,
-      "temp_min": 11.66,
+      "temp": 13.08,
+      "feels_like": 13.05,
+      "temp_min": 12.31,
       "temp_max": 13.28,
       "pressure": 1020,
-      "humidity": 92,
+      "humidity": 100,
       "sea_level": 1020,
       "grnd_level": 1009
     },
     "visibility": 10000,
     "wind": {
-      "speed": 2.06,
-      "deg": 330
+      "speed": 4.12,
+      "deg": 350
     },
     "clouds": {
-      "all": 98
+      "all": 100
     },
-    "dt": 1792093001,
+    "dt": 1792104300,
     "sys": {
       "type": 2,
       "id": 2108371,
       "country": "TR",
-      "sunrise": 1792037699,
-      "sunset": 1792077869
+      "sunrise": 1792124165,
+      "sunset": 1792164177
     },
     "timezone": 10800,
     "id": 745042,
@@ -105,31 +105,31 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 13.34,
-      "feels_like": 13.08,
-      "temp_min": 12.36,
-      "temp_max": 13.45,
+      "temp": 11.79,
+      "feels_like": 11.14,
+      "temp_min": 11.51,
+      "temp_max": 11.8,
       "pressure": 1014,
-      "humidity": 90,
+      "humidity": 81,
       "sea_level": 1014,
       "grnd_level": 900
     },
-    "visibility": 8508,
+    "visibility": 10000,
     "wind": {
-      "speed": 0.45,
-      "deg": 293,
-      "gust": 1.34
+      "speed": 2.68,
+      "deg": 290,
+      "gust": 4.02
     },
     "clouds": {
       "all": 100
     },
-    "dt": 1792092861,
+    "dt": 1792104292,
     "sys": {
       "type": 2,
       "id": 267643,
       "country": "TR",
-      "sunrise": 1792036704,
-      "sunset": 1792077006
+      "sunrise": 1792123167,
+      "sunset": 1792163316
     },
     "timezone": 10800,
     "id": 323786,
@@ -151,29 +151,29 @@
     ],
     "base": "stations",
     "main": {
-      "temp": 12.47,
-      "feels_like": 12.1,
-      "temp_min": 12.47,
-      "temp_max": 12.47,
+      "temp": 11.58,
+      "feels_like": 10.99,
+      "temp_min": 11.58,
+      "temp_max": 11.58,
       "pressure": 1020,
-      "humidity": 89,
+      "humidity": 84,
       "sea_level": 1020,
       "grnd_level": 1003
     },
     "visibility": 10000,
     "wind": {
-      "speed": 1.43,
-      "deg": 114,
-      "gust": 3.73
+      "speed": 0.61,
+      "deg": 115,
+      "gust": 1.91
     },
     "clouds": {
-      "all": 98
+      "all": 94
     },
-    "dt": 1792093001,
+    "dt": 1792104564,
     "sys": {
       "country": "TR",
-      "sunrise": 1792037624,
-      "sunset": 1792077896
+      "sunrise": 1792124088,
+      "sunset": 1792164206
     },
     "timezone": 10800,
     "id": 750268,
@@ -187,39 +187,42 @@
     },
     "weather": [
       {
-        "id": 804,
-        "main": "Clouds",
-        "description": "kapalı",
-        "icon": "04n"
+        "id": 500,
+        "main": "Rain",
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ],
     "base": "stations",
     "main": {
-      "temp": 10.5,
-      "feels_like": 9.85,
-      "temp_min": 10.5,
-      "temp_max": 10.83,
+      "temp": 9.39,
+      "feels_like": 8.34,
+      "temp_min": 9.39,
+      "temp_max": 9.83,
       "pressure": 1020,
-      "humidity": 86,
+      "humidity": 94,
       "sea_level": 1020,
       "grnd_level": 992
     },
-    "visibility": 10000,
+    "visibility": 5258,
     "wind": {
-      "speed": 1.82,
-      "deg": 360,
-      "gust": 3.7
+      "speed": 2.17,
+      "deg": 289,
+      "gust": 4.31
+    },
+    "rain": {
+      "1h": 0.21
     },
     "clouds": {
-      "all": 99
+      "all": 94
     },
-    "dt": 1792093001,
+    "dt": 1792104564,
     "sys": {
       "type": 2,
       "id": 2001202,
       "country": "TR",
-      "sunrise": 1792037468,
-      "sunset": 1792077652
+      "sunrise": 1792123933,
+      "sunset": 1792163960
     },
     "timezone": 10800,
     "id": 742865,
